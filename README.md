@@ -3,20 +3,26 @@
 - Showing the flow and the basic working of the application.
 
 
-![Screenshot (63)](https://user-images.githubusercontent.com/99273373/169482107-84d5db71-df14-4dfa-a983-f5a89bdd25b7.png)
+Splash Screen
+![WhatsApp Image 2022-05-20 at 1 04 51 PM](https://user-images.githubusercontent.com/99273373/169483438-ffb8e57a-5b5d-4ef8-8e5a-fb1aa07896de.jpeg)
 
-![Screenshot (54)](https://user-images.githubusercontent.com/99273373/169482119-1dc4ec31-3433-4d07-9fbd-6217857b0346.png)
+Sign In Page
+![WhatsApp Image 2022-05-20 at 1 04 52 PM](https://user-images.githubusercontent.com/99273373/169483698-aabd005d-452f-4992-80e0-260038862395.jpeg)
 
-![Screenshot (56)](https://user-images.githubusercontent.com/99273373/169482126-62ace94c-4966-4269-859e-8b23a103e681.png)
+Home Screen
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (1)](https://user-images.githubusercontent.com/99273373/169483948-6c914570-39c6-43f6-9fd0-182a05dc1cb8.jpeg)
 
-![Screenshot (57)](https://user-images.githubusercontent.com/99273373/169482133-0a7027b1-5816-40cf-a30e-dcfd90cbb5cb.png)
+Home Page
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (2)](https://user-images.githubusercontent.com/99273373/169484042-d8e1a1e1-2516-4e83-be5d-41e851a3f565.jpeg)
 
-![Screenshot (58)](https://user-images.githubusercontent.com/99273373/169482142-561e5924-014a-4aaf-89ea-236eed6d450c.png)
+Health Page
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (3)](https://user-images.githubusercontent.com/99273373/169484146-466bcc87-6349-428a-b059-fa198ec13faf.jpeg)
 
-![Screenshot (59)](https://user-images.githubusercontent.com/99273373/169482148-7df534b4-82f2-4edf-89fe-84f40726bcae.png)
+Exercise Plan
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (4)](https://user-images.githubusercontent.com/99273373/169484259-94f911e2-fa0c-4c2d-b647-a34566c6e8c1.jpeg)
 
-![Screenshot (60)](https://user-images.githubusercontent.com/99273373/169482159-f177e3fd-4280-43c7-a8b8-ed8d14a0f156.png)
+Profile Page
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (5)](https://user-images.githubusercontent.com/99273373/169484400-35c25af0-f5e8-4a28-944d-102526a315ab.jpeg)
 
-![Screenshot (61)](https://user-images.githubusercontent.com/99273373/169482166-8c33cc55-d792-400a-a7ca-4b072e19cd62.png)
-
-![Screenshot (62)](https://user-images.githubusercontent.com/99273373/169482178-e13f6cfa-8425-42b2-8f2b-6c2ea3ebb548.png)
+Meal Page
+![WhatsApp Image 2022-05-20 at 1 04 52 PM (6)](https://user-images.githubusercontent.com/99273373/169484455-edf1fd81-5185-4234-be9a-5e3892070989.jpeg)
